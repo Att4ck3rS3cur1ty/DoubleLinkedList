@@ -1,0 +1,1 @@
+templates are not compiled, so it will not work on cpp, instead it needs to be located in the header (.h)
